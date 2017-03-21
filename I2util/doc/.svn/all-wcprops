@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/I2util/!svn/ver/216/trunk/doc
+END
+aespasswd.man
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/I2util/!svn/ver/118/trunk/doc/aespasswd.man
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/I2util/!svn/ver/216/trunk/doc/Makefile.am
+END
+pfstore.man
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/I2util/!svn/ver/184/trunk/doc/pfstore.man
+END

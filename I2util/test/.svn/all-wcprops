@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/I2util/!svn/ver/216/trunk/test
+END
+hmac-sha1test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/I2util/!svn/ver/216/trunk/test/hmac-sha1test.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/I2util/!svn/ver/216/trunk/test/Makefile.am
+END
+pbkdf2test.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/I2util/!svn/ver/216/trunk/test/pbkdf2test.c
+END
+sha1test.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/I2util/!svn/ver/216/trunk/test/sha1test.c
+END

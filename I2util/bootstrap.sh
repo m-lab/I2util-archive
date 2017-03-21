@@ -1,0 +1,43 @@
+#!/bin/sh
+#
+#      $Id: bootstrap.sh 213 2012-08-23 17:46:00Z aaron $
+#
+#########################################################################
+#									#
+#			   Copyright (C)  2002				#
+#	     			Internet2				#
+#			   All Rights Reserved				#
+#									#
+#########################################################################
+#
+#	File:		bootstrap
+#
+#	Author:		Jeff Boote
+#			Internet2
+#
+#	Date:		Wed Apr 24 09:47:57 EDT 2002
+#
+#	Description:	
+#			This script is used to bootstrap the autobuild
+#			process.
+#
+
+case "$1" in
+	ac257)
+		alias autoconf=autoconf257
+		alias autoheader=autoheader257
+		alias automake=automake17
+		alias aclocal=aclocal17
+		export AUTOCONF=autoconf257
+		;;
+	*)
+		;;
+esac
+
+set -x
+# libtoolize --copy --force --automake
+aclocal -I config
+autoheader
+automake --foreign --add-missing --copy
+autoconf
+rm -rf config.cache

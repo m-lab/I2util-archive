@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/I2util/!svn/ver/217/trunk
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/I2util/!svn/ver/196/trunk/TODO.txt
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/I2util/!svn/ver/214/trunk/configure.ac
+END
+RELEASE.TODO
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/I2util/!svn/ver/213/trunk/RELEASE.TODO
+END
+I2util.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/I2util/!svn/ver/213/trunk/I2util.spec.in
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/I2util/!svn/ver/213/trunk/bootstrap.sh
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/I2util/!svn/ver/213/trunk/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/I2util/!svn/ver/216/trunk/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/I2util/!svn/ver/26/trunk/README
+END
